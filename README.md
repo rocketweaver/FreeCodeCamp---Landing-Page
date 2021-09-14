@@ -1,0 +1,1 @@
+<p>This website is made by CSS and HTML only to completing freeCodeCamp challenge.</p>
